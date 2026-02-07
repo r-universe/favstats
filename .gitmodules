@@ -2,6 +2,51 @@
 	path = .registry
 	url = https://github.com/favstats/favstats.r-universe.dev
 	branch = HEAD
+[submodule "appendornot"]
+	path = appendornot
+	url = https://github.com/favstats/appendornot
+[submodule "bayeRisch"]
+	path = bayeRisch
+	url = https://github.com/favstats/bayeRisch
+[submodule "berlinr"]
+	path = berlinr
+	url = https://github.com/favstats/berlinr
 [submodule "dashboardr"]
 	path = dashboardr
 	url = https://github.com/favstats/dashboardr
+[submodule "hessr"]
+	path = hessr
+	url = https://github.com/favstats/hessr
+[submodule "liads"]
+	path = liads
+	url = https://github.com/favstats/liads
+[submodule "metatargetr"]
+	path = metatargetr
+	url = https://github.com/favstats/metatargetr
+[submodule "peRspective"]
+	path = peRspective
+	url = https://github.com/favstats/peRspective
+[submodule "plattdeutschr"]
+	path = plattdeutschr
+	url = https://github.com/favstats/plattdeutschr
+[submodule "rdialetti"]
+	path = rdialetti
+	url = https://github.com/favstats/rdialetti
+[submodule "reclamer"]
+	path = reclamer
+	url = https://github.com/favstats/reclamer
+[submodule "rpublons"]
+	path = rpublons
+	url = https://github.com/favstats/rpublons
+[submodule "sachsr"]
+	path = sachsr
+	url = https://github.com/favstats/sachsr
+[submodule "schwabr"]
+	path = schwabr
+	url = https://github.com/favstats/schwabr
+[submodule "untruthr"]
+	path = untruthr
+	url = https://github.com/favstats/untruthr
+[submodule "wtmapi"]
+	path = wtmapi
+	url = https://github.com/favstats/wtmapi
